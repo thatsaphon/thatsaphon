@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on Profile Group HR Software Co., Ltd. as an Frontend Developer.
 
-
+[![My Skills](https://skillicons.dev/icons?i=angular,nextjs)](https://skillicons.dev)
 
 
 <!--
